@@ -51,7 +51,7 @@ https://drive.google.com/file/d/11dReDD1gfzf9XnToTCIWcByuFqEwVomN/view
 
 Browser-based learning platform supporting multiple quiz game modes.
 
-• Implemented **real-time 1v1 duel mode** using Firebase Realtime Database  
+• Implemented **real-time multiplayer mode** using Firebase Realtime Database  
 • Built a **custom parser for question banks (.txt → typed in-memory model)**  
 • Added **synchronized timers, speed-based scoring, and rematch handshake logic**
 
@@ -73,12 +73,6 @@ Linux • Git • Bash
 
 **Computer Science**  
 Data Structures • Algorithms • OOP • Memory Management • Computer Architecture
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirdahan9)
 
 ---
 
