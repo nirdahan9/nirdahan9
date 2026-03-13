@@ -1,38 +1,90 @@
-# Hi, I'm Nir Dahan 👋
+# Hi, I'm Nir Dahan 👋  
 
-Computer Science student at Reichman University with a strong interest in backend development, systems programming, and algorithms.
+🎓 **2nd Year Computer Science Student – Reichman University**  
+💻 Passionate about **backend development, systems programming, and building real-world software**  
+🚀 Currently looking for a **student software developer position**
 
-I enjoy building practical software projects and exploring how systems work from low-level architecture up to full applications.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-- B.Sc. Computer Science student at Reichman University (GPA: 88)
-- Background in algorithms, data structures, and systems programming
-- Former Logistics Officer in the IDF with leadership experience
+I'm a Computer Science student with strong foundations in **algorithms, data structures, and low-level systems**.  
 
-## Technologies
+I enjoy building **practical projects that combine software engineering with system-level thinking** — from automation tools to full applications.
 
-Python | Java | C | JavaScript | Node.js | SQL | Linux | Git
+Before starting my degree, I served **5 years as a Logistics Officer in the IDF**, where I developed leadership, problem-solving skills, and the ability to operate under pressure.
 
-## Interests
+---
 
-- Backend Development
-- Systems Programming
-- Algorithms & Data Structures
-- Software Architecture
+## 🚀 Featured Projects
 
-## Featured Projects
+### Group Shield — WhatsApp Moderation Bot  
+**Node.js | SQLite | Puppeteer**
 
-### Group Shield – WhatsApp Moderation Bot
-Node.js application for automated group moderation with rule-based enforcement and persistent configuration.
+Automated moderation system for large WhatsApp communities.
 
-### Bubble Trouble – Arcade Game (Nand2Tetris)
-Built a full arcade-style game on the Hack platform using Jack with custom memory management and modular game systems.
+• Built a configurable **rule engine** for moderation (Warn → Delete → Ban)  
+• Implemented **persistent configuration** with SQLite  
+• Designed a **state-machine based admin onboarding flow via DM**  
+• Added production reliability features: health monitoring, backups, undo actions
 
-### Interactive Study Guide – Web App
-Browser-based study platform with multiple quiz modes and real-time multiplayer duel mode using Firebase.
+---
 
-## Links
+### Bubble Trouble — Arcade Game (Nand2Tetris)  
+**Jack | VM | Hack Architecture**
 
-- LinkedIn: [linkedin.com/in/nir-dahan01](https://linkedin.com/in/nir-dahan01)
-- Portfolio Projects: See pinned repositories below 👇
+Developed a full arcade-style game on the Hack platform.
+
+• Implemented **object pooling** to optimize memory usage  
+• Designed modular game systems: **collision detection, game state management**  
+• Built a custom **pseudo-random generator for gameplay logic**
+
+---
+
+### Interactive Study Guide — Multiplayer Web App  
+**JavaScript | Firebase**
+
+Browser-based study platform with multiple quiz modes.
+
+• Implemented **real-time multiplayer duel mode** using Firebase  
+• Built a **custom parser for question banks (.txt → typed model)**  
+• Added **synchronized timers and speed-based scoring**
+
+🌐 Live Demo  
+https://nirdahan9.github.io/Micro-Economics---Study-Guide/index.html
+
+---
+
+## 🧠 Technologies
+
+**Languages**  
+Python • Java • C • JavaScript  
+
+**Backend & Data**  
+Node.js • SQL • Firebase  
+
+**Systems & Tools**  
+Linux • Git • Bash  
+
+**Computer Science**  
+Data Structures • Algorithms • OOP • Memory Management • Computer Architecture
+
+---
+
+## 📚 Currently Learning
+
+• Full-Stack Development  
+• Machine Learning  
+• Statistical Methods for AI  
+
+---
+
+## 📫 Contact
+
+📧 nir.dahan2001@gmail.com  
+🔗 LinkedIn  
+https://linkedin.com/in/nir-dahan01
+
+---
+
+⭐ Feel free to explore my repositories below.
