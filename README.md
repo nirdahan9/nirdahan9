@@ -1,5 +1,7 @@
 # Hi, I'm Nir Dahan 👋  
 
+Backend-focused Computer Science student building real-world systems and automation tools.
+
 🎓 **2nd Year Computer Science Student – Reichman University**  
 💻 Passionate about **backend development, systems programming, and building real-world software**  
 🚀 Currently looking for a **student software developer position**
@@ -8,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student with strong foundations in **algorithms, data structures, and low-level systems**.  
+I'm a Computer Science student with strong foundations in **algorithms, data structures, and low-level systems**.
 
 I enjoy building **practical projects that combine software engineering with system-level thinking** — from automation tools to full applications.
 
@@ -16,39 +18,42 @@ Before starting my degree, I served **5 years as a Logistics Officer in the IDF*
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### Group Shield — WhatsApp Moderation Bot  
 **Node.js | SQLite | Puppeteer**
 
-Automated moderation system for large WhatsApp communities.
+Automated moderation system designed for large WhatsApp communities.
 
-• Built a configurable **rule engine** for moderation (Warn → Delete → Ban)  
-• Implemented **persistent configuration** with SQLite  
-• Designed a **state-machine based admin onboarding flow via DM**  
-• Added production reliability features: health monitoring, backups, undo actions
+• Built a configurable **rule engine** implementing moderation pipelines (Warn → Delete → Ban)  
+• Implemented **persistent configuration** and state tracking using SQLite  
+• Designed a **state-machine-based admin onboarding flow via direct messages**  
+• Added production reliability features including **health monitoring, automated backups, and reversible moderation actions**
 
 ---
 
 ### Bubble Trouble — Arcade Game (Nand2Tetris)  
 **Jack | VM | Hack Architecture**
 
-Developed a full arcade-style game on the Hack platform.
+Developed a full arcade-style game on the **resource-constrained Hack platform** as part of the Nand2Tetris course.
 
-• Implemented **object pooling** to optimize memory usage  
-• Designed modular game systems: **collision detection, game state management**  
-• Built a custom **pseudo-random generator for gameplay logic**
+• Implemented **object pooling** to optimize memory usage and reduce allocations  
+• Designed modular game systems including **collision detection and game-state management**  
+• Built a custom **pseudo-random number generator for gameplay logic**
+
+🎥 Demo Video  
+https://drive.google.com/file/d/11dReDD1gfzf9XnToTCIWcByuFqEwVomN/view
 
 ---
 
 ### Interactive Study Guide — Multiplayer Web App  
 **JavaScript | Firebase**
 
-Browser-based study platform with multiple quiz modes.
+Browser-based learning platform supporting multiple quiz game modes.
 
-• Implemented **real-time multiplayer duel mode** using Firebase  
-• Built a **custom parser for question banks (.txt → typed model)**  
-• Added **synchronized timers and speed-based scoring**
+• Implemented **real-time 1v1 duel mode** using Firebase Realtime Database  
+• Built a **custom parser for question banks (.txt → typed in-memory model)**  
+• Added **synchronized timers, speed-based scoring, and rematch handshake logic**
 
 🌐 Live Demo  
 https://nirdahan9.github.io/Micro-Economics---Study-Guide/index.html
@@ -71,6 +76,12 @@ Data Structures • Algorithms • OOP • Memory Management • Computer Archit
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirdahan9)
+
+---
+
 ## 📚 Currently Learning
 
 • Full-Stack Development  
@@ -82,6 +93,7 @@ Data Structures • Algorithms • OOP • Memory Management • Computer Archit
 ## 📫 Contact
 
 📧 nir.dahan2001@gmail.com  
+
 🔗 LinkedIn  
 https://linkedin.com/in/nir-dahan01
 
