@@ -30,8 +30,7 @@ Automated moderation system designed for large WhatsApp communities.
 • Designed a **state-machine-based admin onboarding flow via direct messages**  
 • Added production reliability features including **health monitoring, automated backups, and reversible moderation actions**
 
-🌐 Project Showcase
-https://nirdahan9.github.io/GroupShield/
+🌐 Project Showcase - https://nirdahan9.github.io/GroupShield/
 
 ---
 
@@ -44,8 +43,7 @@ Browser-based learning platform supporting multiple quiz game modes.
 • Built a **custom parser for question banks (.txt → typed in-memory model)**  
 • Added **synchronized timers, speed-based scoring, and rematch handshake logic**
 
-🌐 Live Demo  
-https://nirdahan9.github.io/Micro-Economics---Study-Guide/index.html
+🌐 Live Demo - https://nirdahan9.github.io/Micro-Economics---Study-Guide/index.html
 
 ---
 
@@ -58,8 +56,7 @@ Developed a full arcade-style game on the **resource-constrained Hack platform**
 • Designed modular game systems including **collision detection and game-state management**  
 • Built a custom **pseudo-random number generator for gameplay logic**
 
-🎥 Demo Video  
-https://drive.google.com/file/d/11dReDD1gfzf9XnToTCIWcByuFqEwVomN/view
+🎥 Demo Video - https://drive.google.com/file/d/11dReDD1gfzf9XnToTCIWcByuFqEwVomN/view
 
 ---
 
