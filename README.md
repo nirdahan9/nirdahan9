@@ -30,19 +30,8 @@ Automated moderation system designed for large WhatsApp communities.
 • Designed a **state-machine-based admin onboarding flow via direct messages**  
 • Added production reliability features including **health monitoring, automated backups, and reversible moderation actions**
 
----
-
-### Bubble Trouble — Arcade Game (Nand2Tetris)  
-**Jack | VM | Hack Architecture**
-
-Developed a full arcade-style game on the **resource-constrained Hack platform** as part of the Nand2Tetris course.
-
-• Implemented **object pooling** to optimize memory usage and reduce allocations  
-• Designed modular game systems including **collision detection and game-state management**  
-• Built a custom **pseudo-random number generator for gameplay logic**
-
-🎥 Demo Video  
-https://drive.google.com/file/d/11dReDD1gfzf9XnToTCIWcByuFqEwVomN/view
+🌐 Project Showcase
+https://nirdahan9.github.io/GroupShield/
 
 ---
 
@@ -57,6 +46,20 @@ Browser-based learning platform supporting multiple quiz game modes.
 
 🌐 Live Demo  
 https://nirdahan9.github.io/Micro-Economics---Study-Guide/index.html
+
+---
+
+### Bubble Trouble — Arcade Game (Nand2Tetris)  
+**Jack | VM | Hack Architecture**
+
+Developed a full arcade-style game on the **resource-constrained Hack platform** as part of the Nand2Tetris course.
+
+• Implemented **object pooling** to optimize memory usage and reduce allocations  
+• Designed modular game systems including **collision detection and game-state management**  
+• Built a custom **pseudo-random number generator for gameplay logic**
+
+🎥 Demo Video  
+https://drive.google.com/file/d/11dReDD1gfzf9XnToTCIWcByuFqEwVomN/view
 
 ---
 
