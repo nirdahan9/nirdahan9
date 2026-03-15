@@ -10,7 +10,7 @@ Backend-focused Computer Science student building real-world systems and automat
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student with strong foundations in **algorithms, data structures, and low-level systems**.
+I'm a Computer Science student with strong foundations in **programming, algorithms, data structures, and low-level systems**.
 
 I enjoy building **practical projects that combine software engineering with system-level thinking** — from automation tools to full applications.
 
@@ -43,7 +43,7 @@ Browser-based learning platform supporting multiple quiz game modes.
 • Built a **custom parser for question banks (.txt → typed in-memory model)**  
 • Added **synchronized timers, speed-based scoring, and rematch handshake logic**
 
-🌐 Live Demo - https://nirdahan9.github.io/Micro-Economics---Study-Guide/index.html
+🌐 Live Demo - https://nirdahan9.github.io/Micro-Economics---Study-Guide
 
 ---
 
