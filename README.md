@@ -21,14 +21,16 @@ Before starting my degree, I served **5 years as a Logistics Officer in the IDF*
 ## 🚀 Selected Projects
 
 ### Group Shield — WhatsApp Moderation Bot  
-**Node.js | SQLite | Puppeteer**
+**Node.js | SQLite | Puppeteer | Groq AI**
 
-Automated moderation system designed for large WhatsApp communities.
+Production-grade moderation engine for large WhatsApp communities, used on real active groups.
 
-• Built a configurable **rule engine** implementing moderation pipelines (Warn → Delete → Ban)  
-• Implemented **persistent configuration** and state tracking using SQLite  
-• Designed a **state-machine-based admin onboarding flow via direct messages**  
-• Added production reliability features including **health monitoring, automated backups, and reversible moderation actions**
+• Built a configurable **rule engine** with enforcement pipelines (Warn → Delete → Ban) and an undo-by-report workflow  
+• Implemented **two-layer AI moderation**: local curselist + Groq/Llama-3.1 LLM with bypass-detection and prompt-injection blocking  
+• Designed a **Shabbat & Holiday mode** that automatically locks/unlocks groups based on live-fetched candle-lighting times (HebCal API), with a guided manual recovery flow  
+• Built a **state-machine onboarding flow** via DM — full group rule configuration without any dashboard  
+• Added **group description sync**, periodic rule reminders, enforcement pause/resume with notifications, and a reconfiguration deep-link  
+• Implemented production reliability: **health monitoring, automated backups, PM2 process management, and self-healing crash recovery**
 
 🌐 Project Showcase - https://nirdahan9.github.io/GroupShield/
 
