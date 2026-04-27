@@ -20,7 +20,24 @@ Before starting my degree, I served **5 years as a Logistics Officer in the IDF*
 
 ## 🚀 Selected Projects
 
-### Group Shield — WhatsApp Moderation Bot  
+### DerbyUp — Social Football Betting Platform  
+**React + TypeScript | Node.js + Express | PostgreSQL | Firebase | Groq AI**
+
+Points-based social football betting platform with private leagues, live betting, and daily mini-games - deployed and actively used.
+
+• Built a **full-stack REST API** with Node.js + Express backed by PostgreSQL, with Firebase Auth JWT verification and cron-based live score sync  
+• Implemented a **betting system** supporting parlays, exact score predictions, and a score multiplier on admin-highlighted games  
+• Implemented **private leagues** with invite links, configurable pool/per-game formats, prize distribution settings, and end-of-season settlement  
+• Built a **WhatsApp bot** for full league management and betting directly in group chats, deployed via PM2 on a VPS  
+• Developed 6 **daily mini-games** (GuessClub, WhoAreYa, MissingXI, Box2Box, Career Path, Trivia) with automated generation via cron jobs and an anti-repeat mechanism
+• Built a **full admin dashboard** covering user management, bet oversight, game result settlement, league administration, and platform analytics  
+• In Progress - an **AI betting advisor** using Groq (Llama-3.3-70b) that analyzes historical match data and generates bet recommendations
+
+🌐 Website - https://derbyup.bet
+
+---
+
+### GroupShield — WhatsApp Moderation Bot  
 **Node.js | SQLite | Puppeteer | Groq AI**
 
 Production-grade moderation engine for large WhatsApp communities, used on real active groups.
@@ -32,7 +49,7 @@ Production-grade moderation engine for large WhatsApp communities, used on real 
 • Added **group description sync**, periodic rule reminders, enforcement pause/resume with notifications, and a reconfiguration deep-link  
 • Implemented production reliability: **health monitoring, automated backups, PM2 process management, and self-healing crash recovery**
 
-🌐 Project Showcase - https://nirdahan9.github.io/GroupShield/
+🌐 Project Showcase - https://groupshield.icu
 
 ---
 
@@ -65,10 +82,13 @@ Developed a full arcade-style game on the **resource-constrained Hack platform**
 ## 🧠 Technologies
 
 **Languages**  
-Python • Java • C • JavaScript  
+Python • Java • C • JavaScript • TypeScript  
+
+**Frontend**  
+React • Tailwind CSS • Vite  
 
 **Backend & Data**  
-Node.js • SQL • Firebase  
+Node.js • Express • PostgreSQL • SQL • Firebase  
 
 **Systems & Tools**  
 Linux • Git • Bash  
